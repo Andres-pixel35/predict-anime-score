@@ -1,0 +1,11 @@
+---
+name: anime_pred
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.5.1
+  - pandas=3.0.5
+  - scikit-learn=1.9.0
+  - matplotlib=3.11.0
+  - joblib=1.6.0
