@@ -1,7 +1,7 @@
 # predict anime score
 
 A model that predicts the [AniList](https://anilist.co) mean score (0-100) of an anime
-using only information that is known **before** its release.
+using only information that is known **before** its release. Test it [here](https://anidash.streamlit.app/predictor)
 
 > This is my first machine learning model. It surely contains errors and things that
 > could have been done better.
